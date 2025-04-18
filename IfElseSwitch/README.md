@@ -164,4 +164,3 @@ case "Tuesday":
 
 ---
 
-Let me know if you’d like a PDF version, diagrams, or how these relate to CPU pipelines or Go's SSA form!

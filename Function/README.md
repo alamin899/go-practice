@@ -271,4 +271,3 @@ func main() {
 - **Higher-order functions** allow for greater flexibility by accepting or returning functions.
 - Understanding how functions work at the machine level (stack, heap, pointers) allows you to write more efficient and optimized Go code.
 
-Let me know if you'd like more details or if you'd like this as a `.md` file for download!
