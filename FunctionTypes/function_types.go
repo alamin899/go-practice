@@ -83,4 +83,15 @@ func main() {
 	functionSliceExample()
 	higherOrderFunctionExample()
 	customFunctionTypeExample()
+
+	//Anonymous function example
+	func(a int, b int) {
+		fmt.Println("Anonymous function:", a*b) // Output: 12
+	}(3, 4) // IIFE (Immediately Invoked Function Expression)
+}
+
+
+//init function
+func init() {
+	fmt.Println("Initializing function types example...")
 }
